@@ -1,0 +1,7 @@
+{
+  "name": "myweatherapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
